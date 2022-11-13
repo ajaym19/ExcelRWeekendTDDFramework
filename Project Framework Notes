@@ -1,0 +1,49 @@
+Project Framework Notes
+
+Framework:
+1. TDD >> Test Driven Development
+2. BDD >> Behavior Driven Development (GWT)
+
+Design Patterns:
+1. POM >> Page Object Model
+2. Singleton
+
+Testing Framework
+TestNG
+JUnit
+
+Framework Layers:
+1. Test Layer
+2. Code Layer
+3. Parent Layer
+
+Build Tool
+Maven
+
+CICD
+Github
+Jenkins
+
+Reporting
+TestNG
+
+Best Programming practices:
+1. OOPS is followed
+2. There should be no hard coding
+3. No duplicate codes
+4. Easy to maintain
+
+
+Steps:
+1. Add the relevant dependencies
+2. write TC
+3. 
+
+
+
+3 possible reasond
+1. Waits
+2. Frames
+3. Locator is wrong/other window
+
+
